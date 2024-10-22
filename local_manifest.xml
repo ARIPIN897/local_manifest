@@ -8,8 +8,8 @@
     
             <!-- Sync trees -->
         <project path="device/oppo/CPH2083" name="android-device-oppo6765" remote="user" revision="los16" />
-        <project path="vendor/oppo/CPH2083" name="android-kernel-oppo6765" remote="user" revision="los16" />
-        <project path="device/oppo/CPH2083" name="android-vendor-oppo6765" remote="user" revision="los16" />
+        <project path="kernel/oppo/CPH2083" name="android-kernel-oppo6765" remote="user" revision="los16" />
+        <project path="vendor/oppo/CPH2083" name="android-vendor-oppo6765" remote="user" revision="los16" />
         <project path="prebuilts/clang/host/linux-x86/clang-r316199" name="clang-r316199" remote="user" revision="clang" />
 
      
